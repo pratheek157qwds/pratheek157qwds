@@ -14,6 +14,6 @@
 
 ## Connect with me:
 <p align="left">
-  <a href="https://www.linkedin.com/in/kareddy-hrushikesh-reddy-aa7882253/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-  <a href="https://www.instagram.com/lazypanda.2004/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+  <a href="https://www.linkedin.com/in/pratheek-reddy-0566aa1bb/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+  <a href=""><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 </p>
