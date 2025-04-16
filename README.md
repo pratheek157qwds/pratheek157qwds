@@ -1,4 +1,4 @@
-# Hi there, I’m Hrushikesh Reddy.
+# Hi there, I’m Pratheek Reddy.
 
 ## ABOUT ME
 - Pursuing BTech in **Computer Science and Engineering** at **Bennett University**.
